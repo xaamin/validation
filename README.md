@@ -104,4 +104,4 @@ foreach ($messages->all('<li>:message</li>') as $message) {
 ````
 
 
-See all avalilable rules and methods at [Laravel](http://laravel.com/docs/5.0/$validator#basic-usage).
+See all avalilable rules and methods at [Laravel validations](https://laravel.com/docs/5.0/validation).
