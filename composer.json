@@ -1,0 +1,15 @@
+{
+    "name": "xaamin/validation",
+    "description": "Illuminate validation outside Laravel",
+    "type": "composer-plugin",
+    "authors": [
+        {
+            "name": "Benjamín Martínez Mateos",
+            "email": "xaamin@outlook.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4",
+        "illuminate/validation": "5.0 - 5.3"
+    }
+}
