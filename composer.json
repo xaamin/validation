@@ -1,7 +1,6 @@
 {
     "name": "xaamin/validation",
     "description": "Illuminate validation outside Laravel",
-    "type": "composer-plugin",
     "authors": [
         {
             "name": "Benjamín Martínez Mateos",
